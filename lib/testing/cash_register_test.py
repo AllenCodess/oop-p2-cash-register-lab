@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
-from cash_register import CashRegister
+from lib.cash_register import CashRegister
+
 
 import io
 import sys
